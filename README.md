@@ -5,9 +5,7 @@
 > Estado: MVP en desarrollo activo.
 > Este repositorio es de presentación. El código fuente es privado.
 
-🔗 **Demo:** [próximamente / pegar link cuando esté online]
-
-![Pantalla principal de IdVet](docs/captura-1.png)
+🔗 **Demo:** [próximamente]
 
 ---
 
